@@ -3,7 +3,6 @@
     "version": "0.0.1",
     "description": "Beta scrapping",
     "main": "index.ts",
-    "repository": "https://github.com/uBeBest-lab/scrapping-script.git",
     "author": "Ignacio Tonoli <ignacio@tonoli.tech>",
     "license": "MIT",
     "private": true,
