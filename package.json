@@ -1,0 +1,35 @@
+{
+    "name": "scrapping-script",
+    "version": "0.0.1",
+    "description": "Beta scrapping",
+    "main": "index.ts",
+    "repository": "https://github.com/uBeBest-lab/scrapping-script.git",
+    "author": "Ignacio Tonoli <ignacio@tonoli.tech>",
+    "license": "MIT",
+    "private": true,
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "node index.js"
+    },
+    "dependencies": {
+      "chalk": "^4.1.0",
+      "cheerio": "^1.0.0-rc.5",
+      "fs": "^0.0.1-security",
+      "jimp": "^0.16.1",
+      "opencv-wasm": "^4.3.0-10",
+      "pixelmatch": "^5.2.1",
+      "poll-until-promise": "^3.6.0",
+      "puppeteer": "^5.5.0",
+      "puppeteer-extra": "^3.1.16",
+      "puppeteer-extra-plugin-stealth": "^2.6.6",
+      "request": "^2.88.2"
+    },
+    "devDependencies": {
+      "eslint": "^7.19.0",
+      "eslint-config-airbnb-base": "^14.2.1",
+      "eslint-config-prettier": "^7.2.0",
+      "eslint-plugin-import": "^2.22.1",
+      "eslint-plugin-prettier": "^3.3.1",
+      "prettier": "^2.2.1"
+    }
+  }

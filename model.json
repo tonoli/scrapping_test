@@ -1,0 +1,97 @@
+{
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "brand": {
+      "type": "string"
+    },
+    "websiteRef": {
+      "type": "string"
+    },
+    "brandRef": {
+      "type": "string"
+    },
+    "numberofCutlery": {
+      "type": "float"
+    },
+    "fabricationOrigin": {
+      "type": "string"
+    },
+    "weight": {
+      "type": "float"
+    },
+    "waterConsumption": {
+      "type": "float"
+    },
+    "energyConsumption": {
+      "type": "float"
+    },
+    "dryingEfficacity": {
+      "type": "string"
+    },
+    "sparePartsAvailability": {
+      "type": "float"
+    },
+    "productReference": {
+      "type": "string"
+    },
+    "productName": {
+      "type": "string"
+    },
+    "price": {
+      "type": "float"
+    },
+    "height": {
+      "type": "float"
+    },
+    "width": {
+      "type": "float"
+    },
+    "depth": {
+      "type": "float"
+    },
+    "dimensions": {
+      "type": "string"
+    },
+    "originWarranty": {
+      "type": "integer"
+    },
+    "soundLevel": {
+      "type": "float"
+    },
+    "customerNotice": {
+      "type": "float"
+    },
+    "complementaryCharacteristics": {
+      "type": "string"
+    },
+    "numberOfPrograms": {
+      "type": "integer"
+    },
+    "availablePrograms": {
+      "type": "string"
+    },
+    "delayedStart": {
+      "type": "string"
+    },
+    "maximumDelayedStart": {
+      "type": "integer"
+    },
+    "estimatedUsageCost": {
+      "type": "float"
+    },
+    "waterConsumptionCycle": {
+      "type": "float"
+    },
+    "washingTemperature": {
+      "type": "integer"
+    },
+    "installingtype": {
+      "type": "string"
+    },
+    "code": {
+      "type": "integer"
+    }
+  }
+}
